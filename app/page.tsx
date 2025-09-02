@@ -160,7 +160,7 @@ export default function Home() {
                                 </div>
                                 <h3 className="text-2xl font-bold mb-4 text-white">Architecture & System Audits</h3>
                                 <p className="text-slate-400 mb-6 leading-relaxed">
-                                    Comprehensive evaluation of your system's foundation, identifying areas for
+                                    Comprehensive evaluation of your system&apos;s foundation, identifying areas for
                                     improvement and optimization.
                                 </p>
                                 <ul className="space-y-3">
