@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import Link from "next/link";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -14,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Your AWS Technical Partner — In Crisis and in Growth.",
+  title: "Amelion - Senior-level AWS expertise",
   description: "Whether you're scaling, launching, or evaluating what you've built — we help you move forward with confidence, not assumptions.",
 };
 
